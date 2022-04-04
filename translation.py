@@ -44,7 +44,7 @@ I am currently working for a channel if you want to use me, Use my source code a
 
 ○ ᴠᴇʀsɪᴏɴ : 1.0.0
 
-○ ᴄʀᴇᴀᴛᴏʀ :  [Rex botslz](https://t.me/REX_BOTZ)
+○ ᴄʀᴇᴀᴛᴏʀ :  [Rex botz](https://t.me/REX_BOTZ)
 """
 
       MARKDOWN_TEXT = """
