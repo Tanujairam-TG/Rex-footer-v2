@@ -43,7 +43,7 @@ You can deploy the bot using heroku
  
 - 👇 Press the deploy button.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ts-bots/AutoCaption-Ts_Bot-Clone)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Tanujairam123/Rex-footer-v2)
 
 ## Please note
 
