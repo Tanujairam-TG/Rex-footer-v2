@@ -27,7 +27,7 @@ start_button=InlineKeyboardMarkup(
               ],
               [
                   InlineKeyboardButton("📫 𝚄𝙿𝙳𝙰𝚃𝙴𝚂", url = "https://t.me/Ts_bots"),
-                  InlineKeyboardButton("🎨 𝚂𝚄𝙿𝙿𝙾𝚁𝚃", url = "https://t.me/REX_Bots_Support)
+                  InlineKeyboardButton("🎨 𝚂𝚄𝙿𝙿𝙾𝚁𝚃", url = "https://t.me/REX_Bots_Support")
               ], 
               [
                   InlineKeyboardButton("🔐 CLOSE", callback_data = "close_data")
